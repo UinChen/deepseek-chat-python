@@ -213,6 +213,8 @@ tempCodeRunnerFile.py
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-
+config.py
+knowledge_base/
+chat_history.json
 # Streamlit
 .streamlit/secrets.toml
